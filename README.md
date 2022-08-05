@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in **making a career transition to IT**
 
-- 👨🏽‍💻 Studying Full-Stack Development in the [Explorer 3.0 Program at Rocketseat](https://www.rocketseat.com.br/explorer?gclid=Cj0KCQjw_7KXBhCoARIsAPdPTfhNzsRQoPzGXT8sO56dOHQoFrA5kUNnpvxGzYWyt4TFDjYrd49mI8oaAgbAEALw_wcB)
+- 👨🏽‍💻 Studying Full-Stack Development in the [Explorer Rocketseat](https://www.rocketseat.com.br/explorer?gclid=Cj0KCQjw_7KXBhCoARIsAPdPTfhNzsRQoPzGXT8sO56dOHQoFrA5kUNnpvxGzYWyt4TFDjYrd49mI8oaAgbAEALw_wcB)
 
 - 📚 English student
 
