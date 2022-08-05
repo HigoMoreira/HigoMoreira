@@ -28,13 +28,13 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/higo-moreira-751797100/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin"/>
 </a>
 <a href="https://instagram.com/higomoreira_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram"/>
 </a>
 <a href="mailto://higomoreiraq@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+ <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail"/>
 </a>
 </p>
 <!--
