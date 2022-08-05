@@ -11,7 +11,7 @@
 
 - 📚 English student
 
-- 🔎 More at [github.io/bio-higomoreira](https://higomoreira.github.io/Bio-Higo-Moreira/)
+- 🔎 More at [github.io/higomoreira-bio](https://higomoreira.github.io/Bio-Higo-Moreira/)
 
 <br>
 
