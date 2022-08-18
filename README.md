@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/HigoMoreira/9c4be7ac5ad6331b67071c2e1eaaf2e1/raw/686e8a6a7bd5382bc3d481358139ce642cf427c6/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/higomoreiraq/9c4be7ac5ad6331b67071c2e1eaaf2e1/raw/686e8a6a7bd5382bc3d481358139ce642cf427c6/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Higo Moreira</h1>
 
 - 🚀 Front-end Web Developer & Co-founder at Haltere-se Cozinha Saudável 
