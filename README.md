@@ -12,7 +12,7 @@ src="https://gist.githubusercontent.com/higomoreiraq/ab7c02b8271f76add55e1ea10fa
 
 - 📚 English student
 
-- 🔎 More at [github.io/higomoreira-bio](https://higomoreira.github.io/Bio-Higo-Moreira/)
+- 🔎 More at [github.io/higomoreiraq-bio](https://higomoreiraq.github.io/Bio-Higo-Moreira/)
 
 <br>
 
